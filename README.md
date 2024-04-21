@@ -1,4 +1,4 @@
-# A/B Testing README
+# A/B Testing
 
 ## Fundamentals and Concepts
 A/B testing, also known as split testing, is a controlled experiment where two or more variants of a webpage, email, or app are compared to determine which one performs better in terms of a predefined goal or metric. It helps businesses make data-driven decisions and optimize their digital assets for improved user engagement, conversions, and revenue.
